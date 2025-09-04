@@ -1,0 +1,2 @@
+# Practicum-1---Bone-Fracture-Detection-using-Deep-Learning
+Our practicum project is on Bone Fracture Detection using Deep Learning. The idea is to use AI to help identify fractures in X-ray images so that doctors can get faster and more reliable results. We’ll be working with existing datasets of thousands of X-rays and training computer vision models to detect whether a bone is fractured or not. 

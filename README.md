@@ -14,7 +14,7 @@ We are using two publicly available datasets:
 1. [Bone Fracture Detection Computer Vision Dataset (ResearchGate)](https://www.researchgate.net/publication/382268240_Bone_Fracture_Detection_Computer_Vision_Project)  
 2. [MURA: Musculoskeletal Radiographs Dataset (Nature Scientific Data)](https://www.nature.com/articles/s41597-023-02432-4)  
 
-The datasets contain thousands of X-ray images with fracture and non-fracture labels. Estimated combined size: 20–30 GB.  
+The datasets contain thousands of X-ray images with fracture and non-fracture labels. Estimated combined size: 2–3 GB.  
 
 ## Tech Stack
 - Python  

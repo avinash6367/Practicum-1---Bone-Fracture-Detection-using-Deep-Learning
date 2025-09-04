@@ -37,5 +37,3 @@ The datasets contain thousands of X-ray images with fracture and non-fracture la
 - Class imbalance (more non-fracture than fracture images) → will use augmentation and class-weighted loss.  
 - High computational requirements → mitigate with transfer learning and cloud GPU resources.  
 - Model interpretability → Grad-CAM heatmaps to highlight regions influencing predictions.  
-
-## Repository Structure (initial draft)

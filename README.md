@@ -1,4 +1,4 @@
-# Bone Fracture Detection Practicum
+# Bone Fracture Detection Using Deep Learning and Computer Vision
 
 ## 🔍 Project Overview
 
